@@ -1,2 +1,3 @@
 .env
 foodrec_memory.db
+venv/
